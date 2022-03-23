@@ -620,7 +620,7 @@ h3{
 
     .cont1{
         width: 100%;
-        bottom: 140px;
+        bottom: 130px;
         height: 300px;
     }
 
@@ -692,7 +692,7 @@ h3{
 
 @media (max-width: 600px){
     .cont1{
-        bottom: 180px;
+        bottom: 160px;
     }
 
     .cont3{
