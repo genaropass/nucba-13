@@ -275,7 +275,7 @@ progress[value]::-webkit-progress-value {
     padding: 20px;
     margin: auto;
     border-radius: 10px;
-    box-shadow:0 8px 8px rgba(0,0,0,0.05);
+    box-shadow:0 8px 8px rgba(0,0,0,0.02);
 }
 
 .card1 p, .card2 p, .card3 p{
@@ -679,6 +679,10 @@ h3{
     .cont1{
         bottom: 180px;
     }
+
+    .cont3{
+        height: 1300px;
+    }
 }
 
 @media (max-width: 372px){
@@ -691,7 +695,7 @@ h3{
     }
 
     .cont3{
-        height: 1300px;
+        height: 1400px;
     }
 
 
@@ -704,4 +708,5 @@ h3{
     
 
 }
+
 
